@@ -1,4 +1,4 @@
-# 🛡️ SentiGuard-AI OpenAI Edition
+#  🛡️ SentiGuard-AI OpenAI Edition
 
 Un potente strumento di analisi del sentiment che utilizza l'API di OpenAI con supporto per la selezione del modello e il calcolo dei costi.
 
