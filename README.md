@@ -67,7 +67,7 @@ SentiGuard-AI OpenAI Edition is a Python script that performs sentiment analysis
 - Error logs, if any, are saved as `{custom_filename}_error_log.txt`
 
 ### 💻 Code Snippet
-Here's a key part of the script that handles the API request and cost calculation:
+Here's a key part of the script:
 
 ```python
 def schedule_request(client, prompt: str, tracker: dict, model: str) -> dict:
@@ -156,7 +156,7 @@ SentiGuard-AI OpenAI Edition è uno script Python che esegue l'analisi del senti
 - I log degli errori, se presenti, vengono salvati come `{nome_file_personalizzato}_error_log.txt`
 
 ### 💻 Snippet di Codice
-Ecco una parte chiave dello script che gestisce la richiesta API e il calcolo dei costi:
+Ecco una parte chiave dello script:
 
 ```python
 def schedule_request(client, prompt: str, tracker: dict, model: str) -> dict:
